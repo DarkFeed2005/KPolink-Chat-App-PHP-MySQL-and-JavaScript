@@ -27,10 +27,10 @@ Welcome to KPolink,
 Clone the repository :
 
 ```sh
-git clone https://github.com/DarkFeed2005/KDriveX-HTML-CSS-JS.git
+git clone https://github.com/DarkFeed2005/KPolink-Chat-App-PHP-MySQL-and-JavaScript.git
 ```
 ```bash
-cd rent a car -website
+cd Chat app
 ```
 
 
