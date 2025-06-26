@@ -5,8 +5,8 @@ Welcome to KPolink,
 
 
 <p align="center">
-<a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html" width="70" height="70"/> </a> 
-<a href="#" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css" width="70" height="70"/> </a>
+<a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=php" alt="php" width="70" height="70"/> </a> 
+<a href="#" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="70" height="70"/> </a>
 <a href="#" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="70" height="70"/> </a>
 
 </p>
