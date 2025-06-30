@@ -49,3 +49,4 @@ setInterval(() =>{
   xhr.send();
 }, 500);
 
+// This code handles the search functionality in a user list. It toggles the visibility of the search bar when the search icon is clicked, and it sends an AJAX request to the server to fetch users based on the search term entered in the search bar. The user list is updated with the search results, and it also periodically fetches the latest users from the server every 500 milliseconds. If the search bar is active, it filters the user list based on the search term.
