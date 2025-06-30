@@ -10,3 +10,6 @@ toggleIcon.onclick = () =>{
     toggleIcon.classList.remove("active");
   }
 }
+
+// This code toggles the visibility of a password field in a form.
+// When the icon is clicked, it checks the current type of the password field.    
