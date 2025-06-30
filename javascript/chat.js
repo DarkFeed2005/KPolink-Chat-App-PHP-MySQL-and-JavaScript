@@ -61,3 +61,5 @@ function scrollToBottom(){
     chatBox.scrollTop = chatBox.scrollHeight;
   }
   
+
+// This code handles the chat functionality in a chat application. It allows users to send messages, displays incoming messages, and automatically scrolls to the bottom of the chat box when new messages are received. The chat box also has hover functionality to show or hide the active state. The code uses AJAX to send and retrieve messages from the server without refreshing the page, providing a smooth user experience.
